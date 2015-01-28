@@ -1,0 +1,54 @@
+.reviews {
+	width: 500px;
+	margin: auto;
+	margin-bottom: 10px;
+}
+
+.activities {
+	width: 500px;
+	margin: auto;
+	margin-bottom: 10px;
+	border: 1px solid black;
+	border-radius: 10px;
+	padding: 10px;
+}
+
+#t_reviews {
+	display: inline;
+	font-size: x-large;
+	font-style: italic;
+}
+
+#a_reviews {
+	display: inline;
+	font-size: small;
+	font-weight: bold;
+	margin-left: 10px;
+}
+
+#d_reviews {
+	display: inline;
+	font-size: small;
+	margin-left: 5px;
+}
+
+#d_activities {
+	display: inline-block;
+	font-size: x-large;
+	font-weight: bold;
+	margin-bottom: 5px;
+	width: 30%;
+}
+
+#n_activities {
+	display: inline-block;
+	font-size: x-large;
+	font-style: italic;
+	margin-bottom: 5px;
+	width: 67%;
+}
+
+#t_activities {
+	display: inline-block;
+	width: 100%;
+}
